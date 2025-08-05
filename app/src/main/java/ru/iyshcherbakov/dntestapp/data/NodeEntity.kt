@@ -7,5 +7,5 @@ import androidx.room.PrimaryKey
 data class NodeEntity(
     @PrimaryKey val id: String,
     val name: String,
-    val parentId: String,
+    val parentId: String?,
 )

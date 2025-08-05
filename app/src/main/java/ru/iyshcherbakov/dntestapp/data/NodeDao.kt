@@ -21,4 +21,7 @@ interface NodeDao {
 
     @Query("SELECT * FROM nodes WHERE parentId IS NULL LIMIT 1 ")
     suspend fun getRootNode(): NodeEntity?
+
+    @Query("SELECT COUNT(*) FROM nodes WHERE parentId IS NULL")
+    suspend fun rootNodeCount(): Int
 }
