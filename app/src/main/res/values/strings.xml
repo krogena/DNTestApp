@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">DNTestApp</string>
+    <string name="app_name" translatable="false">DNTestApp</string>
+    <string name="tv_top_app_bar">Node Tree</string>
+    <string name="tv_node_details">Node Details</string>
+    <string name="tv_node_name">Name: </string>
+    <string name="tv_node_id" translatable="false">ID: </string>
+    <string name="tv_node_empty">No children nodes</string>
 </resources>

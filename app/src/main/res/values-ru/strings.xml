@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_top_app_bar">Дерево Узлов</string>
+    <string name="tv_node_details">Детали узла</string>
+    <string name="tv_node_name">"Имя: "</string>
+    <string name="tv_node_empty">Нет дочерних узлов</string>
+</resources>

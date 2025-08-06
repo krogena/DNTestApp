@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tv_top_app_bar">Төеннәр Агачы</string>
+    <string name="tv_node_details">Төен детальләре</string>
+    <string name="tv_node_name">"Исем: "</string>
+    <string name="tv_node_empty">Бала төеннәре юк</string>
+</resources>
